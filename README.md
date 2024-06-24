@@ -1,1 +1,1 @@
-# testpipeline
+[![Build Status](https://dev.azure.com/ITS-NL-TEST/ALAN-CI-CD/_apis/build/status%2FMuhammedcam.testpipeline?branchName=main)](https://dev.azure.com/ITS-NL-TEST/ALAN-CI-CD/_build/latest?definitionId=26&branchName=main)
